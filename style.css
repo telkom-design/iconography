@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?31o0zy');
+  src:  url('fonts/icomoon.eot?31o0zy#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?31o0zy') format('truetype'),
+    url('fonts/icomoon.woff?31o0zy') format('woff'),
+    url('fonts/icomoon.svg?31o0zy#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-add_loc_pin:before {
+  content: "\e900";
+}
+.icon-at:before {
+  content: "\e901";
+}
+.icon-attach:before {
+  content: "\e902";
+}
+.icon-attach1:before {
+  content: "\e903";
+}
+.icon-attach2:before {
+  content: "\e904";
+}
+.icon-attach3:before {
+  content: "\e905";
+}
+.icon-backspace:before {
+  content: "\e906";
+}
+.icon-basket:before {
+  content: "\e907";
+}
+.icon-basket1:before {
+  content: "\e908";
+}
+.icon-basket2:before {
+  content: "\e909";
+}
